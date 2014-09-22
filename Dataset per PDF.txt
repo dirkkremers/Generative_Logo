@@ -1,0 +1,29 @@
+Dataset per PDF
+
+PDF 8.1:
+taak,duur
+school,32
+sport,20
+werk,18
+vrienden,14
+vriendin,12
+vrije tijd,6
+
+PDF 8.2
+taak,duur
+werk,34
+school,18
+sport,16
+vrije tijd,14
+vriendin,10
+vrienden,8
+
+PDF 8.3
+taak,duur
+vriendin,24
+werk,20
+vrije tijd,18
+sport,16
+vrienden,12
+school,10
+
