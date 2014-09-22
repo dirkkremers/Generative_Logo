@@ -5,7 +5,6 @@ int[] nummer = new int[0];
 String[] taak = new String[0];
 int[] duur = new int[0];
 
-PFont southern;
 int col;
 color[] colarray = new color[6];
 
